@@ -1,4 +1,4 @@
-# Jupyter Notebooks for Plotting Analysis of the "Stochastic Shallow Convection in the tropical Atlanti" study
+# Jupyter Notebooks for Plotting Analysis of the "Stochastic Shallow Convection in the tropical Atlantic" study
 
 ## Paper
 This is a collection of jupyter notebooks that have been used to prepare plots for a paper project. 
