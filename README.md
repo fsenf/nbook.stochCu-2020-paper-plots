@@ -16,4 +16,4 @@ Authors, Title, ... (will be added later)
 
 Some Notebooks depend on my work tools from the `tropy` package which are collected here [https://github.com/fsenf/proj.tropy](https://github.com/fsenf/proj.tropy)
 
-Much of the analysis is based on a python package that was developed for another analysis (CRE over the North Atlantic). The package is found [https://github.com/fsenf/proj.nawdex_analysis](https://github.com/fsenf/proj.nawdex_analysis)
+Much of the analysis is based on a python package `nawdex_analysis` that was developed for another analysis (CRE over the North Atlantic). The package is found [https://github.com/fsenf/proj.nawdex_analysis](https://github.com/fsenf/proj.nawdex_analysis)
