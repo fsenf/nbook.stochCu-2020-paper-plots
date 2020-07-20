@@ -3,7 +3,7 @@
 ## Paper
 This is a collection of jupyter notebooks that have been used to prepare plots for a paper project. 
 
-Authors, Title, ... (will be added later)
+Sakradzija, M., F. Senf, L. Scheck, M. Ahlgrimm, and D. Klocke (2020), **Local impact of stochastic shallow convection on clouds and precipitation in the tropical Atlantic**, under review to Mon. Wea. Rev
 
 ## Dependencies
 
@@ -13,6 +13,7 @@ Authors, Title, ... (will be added later)
 * `tropy`
 * `nawdex_analysis`
 
+The notebook still use a python 2.7 kernel!
 
 Some Notebooks depend on my work tools from the `tropy` package which are collected here [https://github.com/fsenf/proj.tropy](https://github.com/fsenf/proj.tropy)
 
