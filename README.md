@@ -1,4 +1,6 @@
 # Jupyter Notebooks for Plotting Analysis of the "Stochastic Shallow Convection in the tropical Atlantic" study
+[![DOI](https://zenodo.org/badge/243220384.svg)](https://zenodo.org/badge/latestdoi/243220384)
+
 
 ## Paper
 This is a collection of jupyter notebooks that have been used to prepare plots for a paper project. 
